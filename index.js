@@ -153,7 +153,7 @@ class Dog extends Animal {
     }
 }
 
-//let fido = new Dog("Fido");
+let fido = new Dog("Fido");
 //console.log(fido.name);
-//console.log(fido.sayName());
+console.log(fido.sayName());
 //console.log(fido instanceof Animal);
